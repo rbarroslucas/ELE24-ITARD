@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*
+G04 #@! TF.CreationDate,2025-02-19T14:25:04+11:00*
+G04 #@! TF.ProjectId,minifoguetes,6d696e69-666f-4677-9565-7465732e6b69,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-02-19 14:25:04*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.050000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X87500000Y-57000000D02*
+X116000000Y-57000000D01*
+X116000000Y-136000000D01*
+X87500000Y-136000000D01*
+X87500000Y-57000000D01*
+M02*

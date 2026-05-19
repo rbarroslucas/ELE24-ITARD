@@ -1,0 +1,25 @@
+# KiCad auto-backups
+*-backups/
+
+# KiCad cache and lock files
+fp-info-cache
+*.lck
+
+# KiCad temporary backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# KiCad project local settings (not needed in version control)
+*.kicad_prl
+
+# Large binary / media files
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code internal folder
+.claude/

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "minifoguetes")(type "KiCad")(uri "${KIPRJMOD}/../minifoguetes.pretty")(options "")(descr ""))
+)
